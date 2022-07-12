@@ -1,0 +1,7 @@
+Instructions/
+__pycache__/
+test.py
+.env
+.ipynb_checkpoints
+installations.sh
+.DS_Store
