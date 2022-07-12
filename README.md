@@ -58,7 +58,9 @@ Integrating these two files allows automation of the tasks associated with gener
 
 * Review the transaction hash code associated with the validated blockchain transaction.
 
-### Image confirmation of functionality
+---
+
+### Image Confirmation of App Functionality
 
 ![Fintech Finder front end](Images/fintech_finder_front_end.png)
 
